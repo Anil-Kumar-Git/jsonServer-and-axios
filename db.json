@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Anil",
+      "lastName": "jaat",
+      "role": "developer",
+      "company": "eminence",
+      "state": "punjabd",
+      "city": "mohali"
+    },
+    {
+      "id": "2",
+      "firstName": "param",
+      "lastName": "jitender",
+      "role": "backend developer",
+      "company": "eminenceCo",
+      "state": "punjab",
+      "city": "mohali"
+    },
+    {
+      "id": "21",
+      "firstName": "ewrewqrw",
+      "lastName": "dsewrwe",
+      "role": "edwfsd",
+      "company": "dssdsf",
+      "state": "fefewf",
+      "city": "fergefe"
+    },
+    {
+      "id": "jJTFAjU",
+      "firstName": "sunil",
+      "lastName": "stae",
+      "role": "lslkks",
+      "company": "emi",
+      "state": "har",
+      "city": "hisar"
+    },
+    {
+      "id": "QJHUkCj",
+      "firstName": "Anilku",
+      "lastName": "sx;lalkpsa",
+      "role": "xsdcsdsdsdsd",
+      "company": "dcds",
+      "state": "dsds",
+      "city": "dsds"
+    }
+  ]
+}
